@@ -6,7 +6,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 # User settings
 username: NETRUNNER
-user_description: Cloud Solutions Architect  | Cloud Native Advocate  | Cybersecurity Evangelist
+user_description: Cloud Solutions Architect  | Cloud Native | Cybersecurity 
 user_title: Cloud Solutions Architect
 email: kevin@net-runner.io
 twitter_username: thekevinevans
