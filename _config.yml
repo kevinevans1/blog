@@ -15,7 +15,7 @@ twitter_username: thekevinevans
 linkedin_username: kevinevans01
 github_username:  kevinevans1
 # medium_username: lorem_ipsum
-# medium_url: lorem_ipsum.medium.com
+medium_url: https://blog.net-runner.io
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
